@@ -1,0 +1,65 @@
+[
+  {
+    "id": "anti-wrinkle-injections",
+    "name": "Anti-Wrinkle Injections",
+    "slug": "anti-wrinkle-injections",
+    "category": "Injectables",
+    "synonyms": ["Botox", "Wrinkle Relaxing", "Botulinum Toxin", "Frown Line Treatment"],
+    "averageCostUK": "£180 - £350 per area",
+    "description": "Prescription-only neuromodulator treatments administered by medical doctors or nurse prescribers to soften dynamic facial expression lines."
+  },
+  {
+    "id": "dermal-fillers",
+    "name": "Dermal Fillers",
+    "slug": "dermal-fillers",
+    "category": "Injectables",
+    "synonyms": ["Hyaluronic Acid Fillers", "Cheek Filler", "Jawline Filler", "Nasolabial Folds"],
+    "averageCostUK": "£250 - £450 per ml",
+    "description": "Hyaluronic acid gels used to restore volume, contour facial features, and support structural tissue."
+  },
+  {
+    "id": "lip-fillers",
+    "name": "Lip Fillers",
+    "slug": "lip-fillers",
+    "category": "Injectables",
+    "synonyms": ["Lip Augmentation", "Lip Injections", "Lip Hydration"],
+    "averageCostUK": "£200 - £350 per ml",
+    "description": "Targeted volume, definition, and hydration for the lips using soft, malleable hyaluronic acid formulations."
+  },
+  {
+    "id": "sculptra-biostimulators",
+    "name": "Sculptra & Biostimulators",
+    "slug": "sculptra-biostimulators",
+    "category": "Biostimulators",
+    "synonyms": ["PLLA Injections", "Poly-L-Lactic Acid", "Collagen Stimulator"],
+    "averageCostUK": "£450 - £900 per vial",
+    "description": "Advanced regenerative treatments using micro-particles of poly-L-lactic acid to stimulate the body's natural collagen production over months."
+  },
+  {
+    "id": "rf-microneedling",
+    "name": "RF Microneedling",
+    "slug": "rf-microneedling",
+    "category": "Skin Rejuvenation",
+    "synonyms": ["Radiofrequency Microneedling", "Morpheus8 alternative", "Skin Tightening"],
+    "averageCostUK": "£350 - £750 per session",
+    "description": "Combines minimally invasive microneedling with deep radiofrequency thermal energy to tighten lax skin and smooth texture."
+  },
+  {
+    "id": "profhilo-polynucleotides",
+    "name": "Profhilo & Polynucleotides",
+    "slug": "profhilo-polynucleotides",
+    "category": "Biostimulators",
+    "synonyms": ["Skin Boosters", "Bioremodelling", "Salmon DNA Injections"],
+    "averageCostUK": "£300 - £600 per course",
+    "description": "Injectable tissue stimulators that intensely hydrate the extracellular matrix and prompt cellular skin repair."
+  },
+  {
+    "id": "chemical-peels",
+    "name": "Medical Chemical Peels",
+    "slug": "chemical-peels",
+    "category": "Skin Rejuvenation",
+    "synonyms": ["Obagi Blue Peel", "TCA Peel", "Glycolic Acid Treatment"],
+    "averageCostUK": "£90 - £250 per peel",
+    "description": "Clinical exfoliating solutions applied to shed sun damage, melasma, and irregular epidermal texture."
+  }
+]

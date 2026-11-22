@@ -1,0 +1,146 @@
+[
+  {
+    "id": "milton-keynes",
+    "name": "Milton Keynes",
+    "slug": "milton-keynes",
+    "county": "Buckinghamshire",
+    "postcodeArea": "MK",
+    "population": 290000,
+    "description": "The largest commercial and urban center in North Buckinghamshire, home to high-volume aesthetic clinics."
+  },
+  {
+    "id": "newport-pagnell",
+    "name": "Newport Pagnell",
+    "slug": "newport-pagnell",
+    "county": "Buckinghamshire",
+    "postcodeArea": "MK16",
+    "population": 16000,
+    "description": "Historic coaching town northeast of Milton Keynes, featuring premier nurse-led and CQC-registered medical aesthetic clinics."
+  },
+  {
+    "id": "olney",
+    "name": "Olney",
+    "slug": "olney",
+    "county": "Buckinghamshire",
+    "postcodeArea": "MK46",
+    "population": 7000,
+    "description": "Affluent Georgian market town in North Buckinghamshire renowned for boutique clinical aesthetics and wellness practices."
+  },
+  {
+    "id": "aylesbury",
+    "name": "Aylesbury",
+    "slug": "aylesbury",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP",
+    "population": 80000,
+    "description": "County town of Buckinghamshire, featuring established nurse prescribers and Save Face accredited clinics."
+  },
+  {
+    "id": "wendover",
+    "name": "Wendover",
+    "slug": "wendover",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP22",
+    "population": 8500,
+    "description": "Picturesque Chilterns village adjacent to Aylesbury, featuring dedicated medical aesthetics practices."
+  },
+  {
+    "id": "princes-risborough",
+    "name": "Princes Risborough",
+    "slug": "princes-risborough",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP27",
+    "population": 8000,
+    "description": "Historic market town at the foot of the Chiltern Hills with established doctor-led cosmetic clinics."
+  },
+  {
+    "id": "buckingham",
+    "name": "Buckingham",
+    "slug": "buckingham",
+    "county": "Buckinghamshire",
+    "postcodeArea": "MK18",
+    "population": 15000,
+    "description": "Historic market town adjacent to Winslow, with an affluent demographic seeking discreet facial aesthetics."
+  },
+  {
+    "id": "winslow",
+    "name": "Winslow",
+    "slug": "winslow",
+    "county": "Buckinghamshire",
+    "postcodeArea": "MK18",
+    "population": 5000,
+    "description": "Picturesque North Buckinghamshire market town and headquarters of premier medical practice PureMed."
+  },
+  {
+    "id": "high-wycombe",
+    "name": "High Wycombe",
+    "slug": "high-wycombe",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP11",
+    "population": 125000,
+    "description": "South Buckinghamshire's largest town, featuring hospital-adjacent dermatology and cosmetic practitioners."
+  },
+  {
+    "id": "beaconsfield",
+    "name": "Beaconsfield",
+    "slug": "beaconsfield",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP9",
+    "population": 14000,
+    "description": "High-net-worth commuter enclave with leading doctor-led aesthetic clinics and regenerative skin centers."
+  },
+  {
+    "id": "gerrards-cross",
+    "name": "Gerrards Cross",
+    "slug": "gerrards-cross",
+    "county": "Buckinghamshire",
+    "postcodeArea": "SL9",
+    "population": 10000,
+    "description": "Prestigious South Bucks hub known for luxury private aesthetic medicine and advanced skincare practices."
+  },
+  {
+    "id": "marlow",
+    "name": "Marlow",
+    "slug": "marlow",
+    "county": "Buckinghamshire",
+    "postcodeArea": "SL7",
+    "population": 15000,
+    "description": "Riverside Thames town with renowned nurse prescribers, aesthetic trainers, and laser skin clinics."
+  },
+  {
+    "id": "amersham",
+    "name": "Amersham",
+    "slug": "amersham",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP6",
+    "population": 24000,
+    "description": "Chilterns market town with surgeon-led and specialist aesthetic skin practices."
+  },
+  {
+    "id": "chesham",
+    "name": "Chesham",
+    "slug": "chesham",
+    "county": "Buckinghamshire",
+    "postcodeArea": "HP5",
+    "population": 22000,
+    "description": "Chilterns town with established boutique cosmetic clinics and dental facial aesthetics practices."
+  },
+  {
+    "id": "stoke-poges",
+    "name": "Stoke Poges & South Bucks Enclaves",
+    "slug": "stoke-poges",
+    "county": "Buckinghamshire",
+    "postcodeArea": "SL2",
+    "population": 9000,
+    "description": "Prestigious South Buckinghamshire village corridor (Stoke Poges, Farnham Common, Burnham) home to premier cosmetic centers."
+  },
+  {
+    "id": "bicester",
+    "name": "Bicester",
+    "slug": "bicester",
+    "county": "Oxfordshire / Bucks Border",
+    "postcodeArea": "OX26",
+    "population": 35000,
+    "description": "Rapidly expanding commuter center on the western Buckinghamshire border."
+  }
+]
